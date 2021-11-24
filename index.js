@@ -75,7 +75,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res) => {
-    res.send("Tourism website server is running")
+    res.send("Tourism server is running")
 });
 
 
